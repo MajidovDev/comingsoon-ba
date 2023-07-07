@@ -43,13 +43,13 @@ body {
 }
 
 h1 {
-  font-size: 65px;
+  font-size: 70px;
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 }
 
 p {
-  font-size: 25px;
+  font-size: 30px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
 }
 
@@ -75,11 +75,11 @@ p {
 }
 
 .countdown-number {
-  font-size: 32px;
+  font-size: 35px;
 }
 
 .countdown-label {
-  font-size: 14px;
+  font-size: 20px;
 }
 
 @keyframes countdown-animation {
